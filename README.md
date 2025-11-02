@@ -41,6 +41,9 @@ A user-friendly **Streamlit web application** is developed to provide an interac
    Build a Streamlit dashboard for real-time job prediction.  
 
 ---
+## Screenshot of application
+![screenshot](https://github.com/user-attachments/assets/9a3c82ee-1137-4071-9de5-ba61b33e5f16)
+
 
 ## 👩‍💻 Team Members and Contributions
 

@@ -44,12 +44,10 @@ A user-friendly **Streamlit web application** is developed to provide an interac
 
 ## 👩‍💻 Team Members and Contributions
 
-| Team Member | 
-|--------------|
-| **Kunuku Padmaja** | 
-| **Burhanuddin Hussain** | 
-| **Monish Raj** | 
-| **Harsh Srivastava** |
-| **Perarasu** | |
-
----
+| Team Member | Contributions |
+|--------------|----------------|
+| **Kunuku Padmaja** | Project Coordinator, Data Preparation, Feature Scaling, and Presentation Design |
+| **Burhanuddin Hussain** | Model Optimization, Performance Tuning, and Streamlit Application Development |
+| **Monish Raj** | Model Validation, Testing, and Streamlit Interface Integration |
+| **Harsh Srivastava** | Project Co-Coordinator, Model Training, Evaluation, and Documentation |
+| **Perarasu** | Data Collection, Exploratory Data Analysis (EDA), and Documentation Support |

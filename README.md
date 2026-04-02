@@ -54,3 +54,5 @@ A user-friendly **Streamlit web application** is developed to provide an interac
 | **Monish Raj** | Model Validation, Testing, and Streamlit Interface Integration |
 | **Harsh Srivastava** | Project Co-Coordinator, Model Training, Evaluation, and Documentation |
 | **Perarasu** | Data Collection, Exploratory Data Analysis (EDA), and Documentation Support |
+Certificate of completion
+<img width="977" height="695" alt="image" src="https://github.com/user-attachments/assets/898c0f9e-e869-454b-80c8-294bf1bad552" />
